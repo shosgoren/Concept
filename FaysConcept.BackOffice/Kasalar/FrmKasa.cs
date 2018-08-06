@@ -22,6 +22,7 @@ namespace FaysConcept.BackOffice.Kasalar
         public FrmKasa()
         {
             InitializeComponent();
+            //deneme test
         }
 
         public void Guncelle()
